@@ -1,0 +1,7 @@
+langchain-core
+langchain-ollama
+langgraph
+datasets 
+langchain-mcp-adapters
+torch
+streamlit
