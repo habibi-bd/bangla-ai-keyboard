@@ -10,7 +10,7 @@ from langchain_core.messages import HumanMessage
 # (llama3.2:3b was not in your 'ollama list')
 translation_model = ChatOllama(
     model='gemma3:latest',
-    temperature=0.7
+    temperature=0.7 
 )
 
 @tool

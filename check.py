@@ -1,3 +1,5 @@
+# local model integration test
+
 import ollama
 from langchain_ollama import ChatOllama
 # Call the 3rd model from your list
